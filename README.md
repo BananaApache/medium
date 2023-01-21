@@ -4,7 +4,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; > [link to chromedriver download](https://chromedriver.chromium.org/downloads)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check version of chrome that fits
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check version of chrome required
 
  - ## Git clone this repo
 
+ - ## mkdir 'localhost'
+
+ - ## cd to Google Chrome application location
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`chrome.exe --remote-debugging-port=9222 --user-data-dir="LOCALHOST FOLDER"`
+
+ - ## Login
