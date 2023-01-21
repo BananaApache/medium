@@ -7,6 +7,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check version of chrome required
 
  - ## Git clone this repo
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`cd 'repo location'`
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`pip install -r requirements.txt`
 
  - ## mkdir 'localhost'
 
